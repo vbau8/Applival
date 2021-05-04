@@ -18,7 +18,7 @@
         "hotelName": "luxueuse",
         "description": "suite luxeuse",
         "price": 500.5,
-        "imageUrl": "assets/img/IMGChateau1.jpg",
+        "imageUrl": "assets/img/IMGChateau.jpg",
         "rating": 2
     }
 ]
