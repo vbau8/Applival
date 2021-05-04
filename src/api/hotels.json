@@ -1,0 +1,24 @@
+[
+    {
+        "hotelId": 1,
+        "hotelName": "belle",
+        "description": "belle vue sur jardin",
+        "price": 130,
+        "imageUrl": "assets/img/IMGJardin.jpg",
+        "rating": 3.5
+    },{
+        "hotelId": 2,
+        "hotelName": "calme",
+        "description": "suite au bord d'un lac",
+        "price": 230.5,
+        "imageUrl": "assets/img/IMGLac.jpg",
+        "rating": 3
+    },{
+        "hotelId": 3,
+        "hotelName": "luxueuse",
+        "description": "suite luxeuse",
+        "price": 500.5,
+        "imageUrl": "assets/img/IMGChateau1.jpg",
+        "rating": 2
+    }
+]
